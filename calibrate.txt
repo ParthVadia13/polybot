@@ -1,0 +1,7 @@
+reset1 74 652
+reset2 39 646
+play 24 644
+up 122 1340
+down 135 1490
+left 33 1493
+right 268 1490
