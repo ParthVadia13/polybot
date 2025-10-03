@@ -4,7 +4,8 @@
 **This is a bot which plays the racing game, Polytrack.**
 
 It records live-pixel data, refines it using calibrated center-finding algorithms, and replays the keystroles with millisecond precision.
-Read more about how I made it here:
+
+Read more about how I made it here: https://medium.com/@parthvadia13/polybot-devlog-47e93b5f3fed
 
 
 **This repo includes a 'solo.py' which has extracted and made some important features from this project stand-alone:**
